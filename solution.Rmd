@@ -1,0 +1,14 @@
+---
+title: 'hw06: Introduction to R packages'
+author: "Your Name^[Affiliation]"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output:
+  bookdown::html_document2: 
+    keep_md: true
+---
+
+```{r}
+library("macroeconomics")
+f <- cobb_douglas_per_capita(A = 1.1, alpha = 0.3)
+plot(f, xlim = c(0, 3))
+```
