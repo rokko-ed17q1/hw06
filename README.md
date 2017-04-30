@@ -9,7 +9,7 @@ Introduction to R packages
 
 ## Assignment
 
-Clone, create a new branch as always. Read [`problem.html`](https://github.com/rokko-ed17q1/hw06/blob/master/problem.md) and follow the instructions therein. In particular, reproduce the example package in Section 5. Then knit `solution.Rmd` to create `solution.html` and `solution.md`. 
+Clone, create a new branch as always. Read [`problem.html`](https://rawgit.com/rokko-ed17q1/hw06/master/problem.html) and follow the instructions therein. In particular, reproduce the example package in Section 5. Then knit `solution.Rmd` to create `solution.html` and `solution.md`. 
 
 Open a Pull Request by the deadline. 
 
